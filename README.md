@@ -7,7 +7,7 @@
 Proyecto Capstone del Certificado de Google Data Analytics. El objetivo es analizar cómo difiere el uso de bicicletas entre los miembros anuales y los ciclistas casuales para diseñar una nueva estrategia de marketing.
 
 ## 2. El Dashboard Final
-!Dashboard.(Dashboard_Preview.png)
+![Vista Previa del Dashboard].(Dashboard_Preview.png)
 *(Arriba se muestra una vista estática. Descarga el archivo .pbix para interactuar)*
 
 ## 3. Metodología
